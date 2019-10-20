@@ -1,0 +1,142 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "Borderlands: Butt Stallion (Fall Convention)",
+        "price": 21,
+        "image": {
+          "fields": {
+            "file": { "url": "./images-shop/butt-stallion-shop.jpg" }
+          }
+        }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "DC: Huntress (Fall Convention)",
+        "price": 18,
+        "image": {
+          "fields": { "file": { "url": "./images-shop/dc-huntress-shop.jpg" } }
+        }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "Doctor Who: Tzim-Sha (Fall Convention)",
+        "price": 18,
+        "image": {
+          "fields": {
+            "file": { "url": "./images-shop/doctor-who-tzim-sha-shop.jpg" }
+          }
+        }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "DBZ: Vegeta (Fall Convention)",
+        "price": 18.91,
+        "image": {
+          "fields": {
+            "file": { "url": "./images-shop/dragon-ball-z-vegeta-shop.jpg" }
+          }
+        }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "Hello Kitty Lady Liberty (Fall Convention)",
+        "price": 20.71,
+        "image": {
+          "fields": {
+            "file": { "url": "./images-shop/hello-kitty-lady-liberty-shop.jpg" }
+          }
+        }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "Killer Klowns: Slim (Fall Convention)",
+        "price": 22.51,
+        "image": {
+          "fields": {
+            "file": { "url": "./images-shop/killer-klowns-shop.jpg" }
+          }
+        }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "Marvel: Mysterio (Walmart Exclusive, GITD)",
+        "price": 15.31,
+        "image": {
+          "fields": {
+            "file": { "url": "./images-shop/marvel-mysterio-shop.jpg" }
+          }
+        }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "Marvel: Venom Ghost Rider (Walmart Exclusive)",
+        "price": 18,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images-shop/marvel-venomized-ghost-rider-shop.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": { "id": "9" },
+      "fields": {
+        "title": "Pokemon: Squirtle",
+        "price": 9.91,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images-shop/pokemon-squirtle-shop.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": { "id": "10" },
+      "fields": {
+        "title": "The Simpsons: Evil Willie (Fall Convention)",
+        "price": 18.91,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images-shop/simpsons-evil-willie-shop.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": { "id": "11" },
+      "fields": {
+        "title": "Star Wars: Sandtrooper (Fall Convention)",
+        "price": 20,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images-shop/star-wars-sandtrooper-fall-shop.jpg"
+            }
+          }
+        }
+      }
+    }
+  ]
+}
